@@ -1,0 +1,27 @@
+_repo: Eetu-Kokko-b-4-naytoksinen-naytelma_71419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wuori, Martti
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+description: ''
+gutenberg_issued: '2023-08-16'
+identifiers:
+  gutenberg: '71419'
+language: fi
+pgterms:marc905: 20210619001022wuori
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bVihtori Kosonen, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Eetu Kokko : $b 4-näytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/71419
